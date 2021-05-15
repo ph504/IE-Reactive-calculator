@@ -1,3 +1,12 @@
+# About
+this is a simple calculator with windows like features.
+
+## Prequisities
+you need to download and install react from [here](https://nodejs.org/en/).
+
+## the Appearance
+![](APP.JPG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
